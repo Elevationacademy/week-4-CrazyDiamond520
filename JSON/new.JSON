@@ -1,0 +1,19 @@
+{
+    "name": "name",
+    "weight": 120,
+    "type": "tons",
+    "location": "location",
+    "endangered": "true",
+    "foods":[
+        "potatos",
+        "pizza",
+        "pasta"
+    ],
+    "eatenBy":[
+        "dogs",
+        "cats",
+        "sharks"
+    ],
+    "delisciusness": 5
+
+    }
